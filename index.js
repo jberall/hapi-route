@@ -13,7 +13,7 @@ exports.register = function (server, options, next) {
             method: 'GET',
             path: '/test-github2',
             handler: function (request, reply) {
-                reply('test-github2 passed ');
+                reply('test-github2 passed v1.0.2 changed ');
             }
         }        
     ]);
