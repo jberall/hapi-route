@@ -1,0 +1,23 @@
+{
+  "name": "hapi-route",
+  "version": "1.0.0",
+  "description": "Testing external module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jberall/hapi-route.git"
+  },
+  "keywords": [
+    "hapi",
+    "module-test"
+  ],
+  "author": "Jonathan Berall <jberall@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jberall/hapi-route/issues"
+  },
+  "homepage": "https://github.com/jberall/hapi-route#readme"
+}
